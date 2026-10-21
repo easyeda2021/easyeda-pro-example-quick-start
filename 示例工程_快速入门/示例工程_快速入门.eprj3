@@ -34,8 +34,8 @@
         "uuid": "aa856f4b0d7845f5a579f88182c661a5",
         "name": "波形产生与变换",
         "board": "6f9ffa87b7a3c715",
-        "version": "1792587053425",
-        "updateTime": 1792587053425
+        "version": "1792587320606",
+        "updateTime": 1792587320606
       }
     },
     "sheets": {
@@ -44,8 +44,8 @@
         "title": "P1",
         "schematic_uuid": "aa856f4b0d7845f5a579f88182c661a5",
         "zIndex": 1,
-        "version": "1792587053425",
-        "updateTime": 1792587053425
+        "version": "1792587320606",
+        "updateTime": 1792587320606
       }
     },
     "pcbs": {
