@@ -1,0 +1,69 @@
+{
+  "name": "示例工程_快速入门",
+  "owner_uuid": "52159e623a734559a92667bdcb3b3e5d",
+  "creator_uuid": "52159e623a734559a92667bdcb3b3e5d",
+  "created_at": "2026-10-21 19:51:08",
+  "updated_at": "2026-10-21 19:51:08",
+  "modifier_uuid": "52159e623a734559a92667bdcb3b3e5d",
+  "content": "<p>快速入门演示项目</p>",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "",
+    "settings": {}
+  },
+  "profile": {
+    "boards": {
+      "6f9ffa87b7a3c715": {
+        "uuid": "6f9ffa87b7a3c715",
+        "title": "波形变换电路",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "aa856f4b0d7845f5a579f88182c661a5": {
+        "uuid": "aa856f4b0d7845f5a579f88182c661a5",
+        "name": "波形产生与变换",
+        "board": "6f9ffa87b7a3c715",
+        "version": "1792586939114",
+        "updateTime": 1792586939114
+      }
+    },
+    "sheets": {
+      "165ea749c3694abb9dae63bcaea6c831": {
+        "uuid": "165ea749c3694abb9dae63bcaea6c831",
+        "title": "P1",
+        "schematic_uuid": "aa856f4b0d7845f5a579f88182c661a5",
+        "zIndex": 1,
+        "version": "1792586939114",
+        "updateTime": 1792586939114
+      }
+    },
+    "pcbs": {
+      "cc3553eac7804b22b3c8d59afe37e76e": {
+        "uuid": "cc3553eac7804b22b3c8d59afe37e76e",
+        "title": "PCB",
+        "board": "6f9ffa87b7a3c715",
+        "parent_uuid": "",
+        "version": "1715851047000",
+        "updateTime": 1715851047000
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "52159e623a734559a92667bdcb3b3e5d"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  }
+}
